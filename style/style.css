@@ -1,0 +1,35 @@
+.conteiner {
+	max-width: 600px;
+	margin: 50px auto;
+	padding: 20px 40px;
+	border: 1px solid #000;
+}
+h1, h2, h3, p {
+	text-align: center;
+}
+.content {
+	display: flex;
+	flex-direction: column;
+}
+span {
+	text-align: center;
+	margin-bottom: 15px;
+}
+button{
+	width: 300px;
+	margin: 0 auto;
+}
+.summa {
+	display: flex;
+	justify-content: center;
+	margin-bottom: 15px;
+	height: 40px;
+}
+input {
+	background-color: #fff;
+	width: 200px;
+}
+.num {
+	margin-left: 10px;
+	margin-right: 10px;
+}
