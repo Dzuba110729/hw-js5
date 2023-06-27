@@ -19,10 +19,11 @@
 // }
 
 // Задача 4
-// function buttonClick() {
-//	let elem = document.getElementById('elem');
-//	let sum = document.forms[1] + document.forms[2];
-//	elem.innerHTML = sum;
+// function sum() {
+//	const number1 = +document.querySelector('#number1').value;
+//	const number2 = +document.querySelector('#number2').value;
+//	const sum = number1 + number2;
+//	document.querySelector('#elem').textContent = sum;
 // }
 
 // Задача 5
